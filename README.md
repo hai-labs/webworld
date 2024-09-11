@@ -1,4 +1,4 @@
-# 🕸️🌍 `webworld`
+# 🕸️🌍 WebWorld
 
 *The Web as an RL environment*
 
