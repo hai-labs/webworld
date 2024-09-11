@@ -2,7 +2,7 @@
 requires = ["setuptools", "setuptools_scm"]
 
 [project]
-name = "web-env-rl"
+name = "webworld"
 dynamic = ["version"]
 authors = [{ name = "Niels Bantilan", email = "niels.bantilan@gmail.com" }]
 description = "An RL environment game engine for the web."
@@ -29,14 +29,14 @@ classifiers = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/hai-labs/web-env-rl"
+Homepage = "https://github.com/hai-labs/webworld"
 
 [tool.setuptools]
 include-package-data = true
 license-files = ["licenses/*.txt", "LICENSE"]
 
 [tool.setuptools.packages.find]
-include = ["web_env_rl*"]
+include = ["webworld*"]
 
 [tool.setuptools_scm]
 
