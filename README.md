@@ -15,3 +15,5 @@ game.
 ```bash
 pip install .
 ```
+
+Install `ollama` to run a local model: https://ollama.com/download
